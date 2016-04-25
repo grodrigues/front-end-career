@@ -4,3 +4,4 @@
 - [contratado.me](http://devs.contratado.me/)
 - [Riojob](http://riojob.com.br/)
 - [trampos.co](http://trampos.co/)
+- [gogojob] (www.gogojob.com.br)
